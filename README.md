@@ -1,3 +1,9 @@
+# Retro Arcade Machine Build
+
+Built a retro themed arcade machine from an old desktop PC. Installed open source retro game software, added a joystick, buttons and optimised software for seamless play. Highlights IT skills in assembly, configuration and creative builds.
+
+![Arcade](https://github.com/user-attachments/assets/ff64594c-5cce-4f09-ad25-b319116ec495)
+
 # Network Triage
 
 Ping verifies connectivity if no response, the network path is broken, so start with hardware. Tracert maps the path and fines the exact choke point. Nslookup confirms name resolution -f it fails, the computer's lost the address book, flush cache.
