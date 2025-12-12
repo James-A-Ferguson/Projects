@@ -4,13 +4,11 @@ Built a retro themed arcade machine from an old desktop PC. Installed open sourc
 
 ![Arcade](https://github.com/user-attachments/assets/ff64594c-5cce-4f09-ad25-b319116ec495)
 
-# Network Triage
+# Small Company Network in Packet Tracer
 
-Ping verifies connectivity if no response, the network path is broken, so start with hardware. Tracert maps the path and fines the exact choke point. Nslookup confirms name resolution -f it fails, the computer's lost the address book, flush cache.
+Small company network with three departments IT, HR and Sales each in its own subnet. All departments connect through a central router for inter network communication. A file server sits on a separate subnet, providing shared resources to all departments.
 
-ping -t / tracert / nslookup
-
-![7](https://github.com/user-attachments/assets/dee30a95-8d0f-4153-81dd-23f4c22287da)
+<img width="1168" height="707" alt="Screenshot 2025-12-12 at 4 32 55 pm" src="https://github.com/user-attachments/assets/a16dd04f-f8b3-4f2b-b77c-9e3a649069be" />
 
 # Remote Desktop To Virtualised Window Server - AD - GP
 
