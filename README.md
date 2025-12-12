@@ -8,7 +8,7 @@ Built a retro themed arcade machine from an old desktop PC. Installed open sourc
 
 Small company network with three departments IT, HR and Sales each in its own subnet. All departments connect through a central router for inter network communication. A file server sits on a separate subnet, providing shared resources to all departments.
 
-<img width="1168" height="707" alt="Screenshot 2025-12-12 at 4 32 55 pm" src="https://github.com/user-attachments/assets/a16dd04f-f8b3-4f2b-b77c-9e3a649069be" />
+<img width="1131" height="711" alt="Screenshot 2025-12-12 at 4 48 42 pm" src="https://github.com/user-attachments/assets/eaddbbdf-d6da-4bc2-87aa-cbe0cec2a8b6" />
 
 # Remote Desktop To Virtualised Window Server - AD - GP
 
